@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ReconocimientoOCR</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">OCR Camara</string>
+    <string name="title_gallery">OCR Galeria</string>
+    <string name="message_on_create">Metodo OnCreate Ejecutado</string>
+    <string name="message_on_start">Metodo onStart</string>
+    <string name="message_on_stop">Metodo onStop</string>
+    <string name="message_on_destroy">Metodo onDestroy</string>
+    <string name="message_on_pause">Metodo onPause</string>
+    <string name="message_on_resume">Metodo onResume</string>
+    <string name="message_on_restart">Metodo onRestart</string>
+    <string name="lbl_total">Total</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="logo_de_kenny">Logo de kenny</string>
+    <string name="Logo">Descrpcion logo</string>
+    <string name="logo_PNG">Descrpcion Logo-UTH</string>
+    <string name="aplicacion_para_reconocimiento_ocr_en_una_imagen">Aplicacion para Reconocimiento OCR en una Imagen</string>
+    <string name="imgcamara_descrpcion">imagen tomada de la camara</string>
+    <string name="camara">TODO</string>
+    <string name="btn_abrir_camara">Abridge Camara</string>
+</resources>
